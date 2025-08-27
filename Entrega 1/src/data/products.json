@@ -1,0 +1,193 @@
+[
+  {
+    "id": "p1",
+    "title": "Auriculares Inalámbricos",
+    "description": "Auriculares Bluetooth con cancelación de ruido y batería de 20 horas.",
+    "code": "AUR123",
+    "price": 45000,
+    "status": true,
+    "stock": 35,
+    "category": "Electrónica",
+    "thumbnails": [
+      "/images/products/auriculares1.png",
+      "/images/products/auriculares2.png"
+    ]
+  },
+  {
+    "id": "p2",
+    "title": "Mochila Urbana-actualizad02",
+    "description": "Mochila resistente al agua con compartimento para notebook de 15 pulgadas.-actualizad0",
+    "code": "MOC456-actualizad0",
+    "price": 18500,
+    "status": true,
+    "stock": 50,
+    "category": "Accesorios-actualizad0",
+    "thumbnails": [
+      "/images/products/mochila1-actualizad0.png"
+    ]
+  },
+  {
+    "id": "p3",
+    "title": "Smartwatch Deportivo",
+    "description": "Reloj inteligente con monitor cardíaco, GPS y resistencia al agua.",
+    "code": "SWT789",
+    "price": 60000,
+    "status": true,
+    "stock": 20,
+    "category": "Electrónica",
+    "thumbnails": [
+      "/images/products/smartwatch1.png",
+      "/images/products/smartwatch2.png"
+    ]
+  },
+  {
+    "id": "p4",
+    "title": "Teclado Mecánico",
+    "description": "Teclado mecánico retroiluminado con switches rojos y teclas anti-ghosting.",
+    "code": "TEC321",
+    "price": 30000,
+    "status": true,
+    "stock": 40,
+    "category": "Computación",
+    "thumbnails": [
+      "/images/products/teclado1.png"
+    ]
+  },
+  {
+    "id": "p5",
+    "title": "Zapatillas Running",
+    "description": "Zapatillas deportivas con amortiguación avanzada y suela antideslizante.",
+    "code": "ZAP654",
+    "price": 52000,
+    "status": false,
+    "stock": 0,
+    "category": "Deportes",
+    "thumbnails": [
+      "/images/products/zapatillas1.png",
+      "/images/products/zapatillas2.png"
+    ]
+  },
+  {
+    "id": "p6",
+    "title": "Silla Ergonómica",
+    "description": "Silla de oficina ergonómica con ajuste lumbar y apoyabrazos 4D.",
+    "code": "SIL987",
+    "price": 110000,
+    "status": true,
+    "stock": 15,
+    "category": "Muebles",
+    "thumbnails": [
+      "/images/products/silla1.png"
+    ]
+  },
+  {
+    "id": "p7",
+    "title": "Cámara Fotográfica",
+    "description": "Cámara digital con lente intercambiable y grabación en 4K.",
+    "code": "CAM111",
+    "price": 250000,
+    "status": true,
+    "stock": 10,
+    "category": "Fotografía",
+    "thumbnails": [
+      "/images/products/camara1.png",
+      "/images/products/camara2.png"
+    ]
+  },
+  {
+    "id": "p9",
+    "title": "Monitor 27'' 144Hz",
+    "description": "Monitor gaming de 27 pulgadas con resolución 2K y 144Hz de refresco.",
+    "code": "MON333",
+    "price": 195000,
+    "status": true,
+    "stock": 25,
+    "category": "Computación",
+    "thumbnails": [
+      "/images/products/monitor1.png"
+    ]
+  },
+  {
+    "id": "p10",
+    "title": "Parlante Portátil",
+    "description": "Parlante Bluetooth resistente al agua con 12 horas de autonomía.",
+    "code": "PAR444",
+    "price": 38000,
+    "status": true,
+    "stock": 45,
+    "category": "Electrónica",
+    "thumbnails": [
+      "/images/products/parlante1.png",
+      "/images/products/parlante2.png"
+    ]
+  },
+  {
+    "title": "Producto Prueba",
+    "description": "Descripcion prueba.",
+    "code": "PRUEBA123",
+    "price": 123456,
+    "status": true,
+    "stock": 123,
+    "category": "Categoria Prueba",
+    "thumbnails": [
+      "/images/products/prueba1.png",
+      "/images/products/prueba2.png"
+    ],
+    "id": "24d73224-914c-44f2-87d1-23b5dd89651e"
+  },
+  {
+    "id": "41d940a5-371e-413d-91cf-e404d7122dc4",
+    "title": "Producto Prueba 2",
+    "description": "Descripcion prueba numero 2",
+    "code": "PRUEBA123",
+    "price": 123456,
+    "status": true,
+    "stock": 123,
+    "category": "Categoria Prueba",
+    "thumbnails": [
+      "/images/products/prueba1.png",
+      "/images/products/prueba2.png"
+    ]
+  },
+  {
+    "id": "85ff4667-4955-43bb-8ffe-88eb3c44d667",
+    "title": "Producto Prueba 3",
+    "description": "Descripcion prueba numero 2",
+    "code": "1556",
+    "price": 123456,
+    "status": true,
+    "stock": 123,
+    "category": "Categoria Prueba",
+    "thumbnails": [
+      "/images/products/prueba1.png",
+      "/images/products/prueba2.png"
+    ]
+  },
+  {
+    "id": "a86c7e43-1c0c-450d-9125-e719f118bef9",
+    "title": "Teclado Mecánico",
+    "description": "Switches azules y RGB",
+    "code": "TEC123",
+    "price": 25000,
+    "status": true,
+    "stock": 10,
+    "category": "Periféricos",
+    "thumbnails": [
+      "/images/teclado1.png"
+    ]
+  },
+  {
+    "id": "b079c8c1-8d1d-4971-aa46-4d4796371554",
+    "title": "Cámara IP 1080p",
+    "description": "Cámara de seguridad con visión nocturna y WiFi",
+    "code": "SKU-CAM-1080P-001",
+    "price": 32999.99,
+    "status": true,
+    "stock": 30,
+    "category": "Seguridad",
+    "thumbnails": [
+      "https://example.com/img/cam-1080p-1.jpg",
+      "https://example.com/img/cam-1080p-3.jpg"
+    ]
+  }
+]
